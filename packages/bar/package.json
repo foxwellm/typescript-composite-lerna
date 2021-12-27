@@ -15,6 +15,7 @@
     "access": "public"
   },
   "dependencies": {
-    "typescript-composite-lerna-foo": "0.1.0"
+    "typescript-composite-lerna-foo": "0.1.0",
+    "js-test": "0.1.0"
   }
 }

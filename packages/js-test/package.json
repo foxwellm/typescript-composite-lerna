@@ -1,0 +1,14 @@
+{
+  "name": "js-test",
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "prepublish": "npm run build"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
